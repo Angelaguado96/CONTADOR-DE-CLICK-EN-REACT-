@@ -1,0 +1,22 @@
+button{
+    width: 250px;
+    height: 80px;
+    font-size: 30px;
+    font-family: robo, sans-serif;
+    color: rgb(12, 0, 87);
+    border: 2px solid white;
+    margin:  5px;
+    border-radius:  15px;
+    cursor: pointer;
+
+}
+ button:hover{
+    background-color: cornflowerblue;
+ }
+.boton-clic{
+     background-color: crimson;
+
+}
+.boton-reniciar{
+    background-color: grey;
+}
